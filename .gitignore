@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+../../environments/data-analysis-sensors-industry/
 
 # Spyder project settings
 .spyderproject
